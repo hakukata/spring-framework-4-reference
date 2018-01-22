@@ -1,6 +1,8 @@
 spring-framework-4-reference
 ============================
 
+> 本开源书 forked from [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)，作者为 [waylau](https://github.com/waylau)，欢迎大家 star 原作者的 [repo](https://github.com/waylau/spring-framework-4-reference)，以便获得最新更新，谢谢！
+
 ![logo](logo.jpg)
 
 Chinese translation of [Spring Framework 4.x Reference Documentation] (http://docs.spring.io/spring/docs/current/spring-framework-reference/htmlsingle/).
